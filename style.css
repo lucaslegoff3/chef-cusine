@@ -14,7 +14,8 @@ header {
 }
 
 nav {
-    background-color: #d35400;
+    background-color: #6D8C49;
+;
     color: #fff;
     text-align: center;
     padding: 0.5em;
@@ -40,6 +41,7 @@ h2,
 h3 {
     color: #333;
     text-align: center;
+    font-family: Italiana;
 }
 
 p {
@@ -81,7 +83,8 @@ img {
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    background-color: #d35400;
+    background-color: #6D8C49;
+;
     color: #fff;
     border-radius: 5px;
     cursor: pointer;
@@ -93,5 +96,13 @@ footer {
     text-align: center;
     padding: 1em;
     background-color: #333;
+    color: #fff;
+}
+
+h2 {
+    color: #6D8C49;
+}
+
+h1 {
     color: #fff;
 }
